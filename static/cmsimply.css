@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkDnk2CSrqK71tkrcAfa0fGWterb_rKgwlMG1z5HYXuH8tqWIunw);
   padding: 20px;
 }
 confmenu
@@ -202,5 +202,5 @@ width: 195px;
 }
 body {
   margin-bottom: 120px;
-}
+  background-image:url("http://group.gameclub.tw/722/001/1722/images/logo.gif")
 
