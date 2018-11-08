@@ -341,11 +341,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210511.1">## week1
+<t tx="leo.20181108210511.1">## week5
 
-### 建立github 網站
+### 更改reveal 大標題
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ax2ZuPm3YXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cHKX7_XPjXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181108210608.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -355,10 +355,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108210608.2">## week4
+<t tx="leo.20181108210608.2">## week6
 
-### CMSimfly, Reveal, Pelican Blog 管理方法說明
+### reveal 導入影片
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nMU9bYx0vPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/J-J3NTbcUc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
